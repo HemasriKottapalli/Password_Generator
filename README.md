@@ -3,14 +3,14 @@ A Simple Web App that helps user by generating passwords according to his needs.
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Live Link](#demo)
 - [Features](#features)
 - [How to Use](#how-to-use)
 - [Customization](#customization)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
+## Live Link
 [https://password-generator-star.netlify.app/](#) 
 
 ## Features
@@ -21,8 +21,15 @@ A Simple Web App that helps user by generating passwords according to his needs.
 
 ## How to Use
 
-1. Clone the repository:
+1.Open the Live Link in your preferred web browser.
 
-   ```bash
-   git clone https://github.com/your-username/password-generator.git
+2.Customize your password preferences:
+
+   Select the desired password length.
+   
+   Choose whether to include uppercase letters, lowercase letters, numbers, and special characters.
+   
+3.Click the "Generate Password" button to generate a new password.
+
+4.Copy the generated password to use it.
 
