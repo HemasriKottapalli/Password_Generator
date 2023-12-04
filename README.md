@@ -20,15 +20,15 @@ A Simple Web App that helps user by generating passwords according to his needs.
 
 ## How to Use
 
-1.Open the Live Link in your preferred web browser.
+1. Open the Live Link in your preferred web browser.
 
-2.Customize your password preferences:
+2. Customize your password preferences:
 - Select the desired password length.
  - Choose whether to include uppercase letters, lowercase letters, numbers, and special characters.
    
-3.Click the "Generate Password" button to generate a new password.
+3. Click the "Generate Password" button to generate a new password.
 
-4.Copy the generated password to use it.
+4. Copy the generated password to use it.
 
 ## Contributing
 Contributions are welcome! If you have any ideas for improvements or find any issues, please open an issue or submit a pull request.
