@@ -25,9 +25,9 @@ A Simple Web App that helps user by generating passwords according to his needs.
 
 2.Customize your password preferences:
 
-   Select the desired password length.
+   <br>Select the desired password length.
    
-   Choose whether to include uppercase letters, lowercase letters, numbers, and special characters.
+   <br>Choose whether to include uppercase letters, lowercase letters, numbers, and special characters.
    
 3.Click the "Generate Password" button to generate a new password.
 
