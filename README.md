@@ -3,14 +3,14 @@ A Simple Web App that helps user by generating passwords according to his needs.
 
 ## Table of Contents
 
-- [Live Link](#demo)
+- [Live Link](#live-link)
 - [Features](#features)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Live Link
-[https://password-generator-star.netlify.app/](#) 
+[click here](https://password-generator-star.netlify.app/) 
 
 ## Features
 
