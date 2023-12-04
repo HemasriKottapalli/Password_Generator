@@ -25,7 +25,7 @@ A Simple Web App that helps user by generating passwords according to his needs.
 
 2.Customize your password preferences:
 
-   &emspSelect the desired password length.
+  (&nbsp)Select the desired password length.
    
    &emspChoose whether to include uppercase letters, lowercase letters, numbers, and special characters.
    
